@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=DarkSchokolade&show_icons=true&include_all_commits=true&theme=merko)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSchokolade&layout=compact&theme=merko )
+![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=DarkSchokolade&show_icons=true&include_all_commits=true&theme=merko) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSchokolade&layout=compact&theme=merko ) -->
 
 <div align="center">
 <p><strong>VISITS<Strong></p>
 <img src="https://profile-counter.glitch.me/DarkSchokolade/count.svg" alt="hit counter" align="center">
 </div>
+
+[![Forkers repo roster for @DarkSchokolade/DarkSchokolade](https://reporoster.com/forks/DarkSchokolade/DarkSchokolade)](https://github.com/DarkSchokolade/DarkSchokolade/network/members)
