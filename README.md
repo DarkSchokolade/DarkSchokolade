@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: Django and Javascript
+- 🌱 I’m currently learning: Go, Django and Javascript
 - 👯 I’m looking to collaborate on anything
 - 💡 Curious about anything and everything
 - ❤️ Loves Computers, Programming, Anime, Sci-Fi
